@@ -3,7 +3,7 @@ import time
 import logging
 
 import pychromecast
-
+#Scott's edit
 #chromecasts = pychromecast.get_chromecasts()
 
 chromecasts = pychromecast.Chromecast('192.168.1.176')
